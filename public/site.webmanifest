@@ -1,21 +1,33 @@
 {
-  "name": "MyWebSite",
-  "short_name": "MySite",
+  "name": "PonselPintar",
+  "short_name": "PonselPintar",
+  "description": "Layanan informasi dan konsultasi monitoring perangkat secara bertanggung jawab.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#fffafd",
+  "theme_color": "#e81772",
+  "lang": "id-ID",
+  "dir": "ltr",
+  "categories": ["lifestyle", "productivity"],
   "icons": [
+    {
+      "src": "/images/icon-ponselpintar.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
     {
       "src": "/web-app-manifest-192x192.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "maskable"
+      "purpose": "any maskable"
     },
     {
       "src": "/web-app-manifest-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "maskable"
+      "purpose": "any maskable"
     }
-  ],
-  "theme_color": "#ffffff",
-  "background_color": "#ffffff",
-  "display": "standalone"
+  ]
 }
