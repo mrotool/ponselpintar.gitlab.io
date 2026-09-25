@@ -5,6 +5,7 @@ import { Showcase } from "@/components/home/Showcase";
 import { HowItWorks } from "@/components/home/HowItWorks";
 import { UseCases } from "@/components/home/UseCases";
 import { Pricing } from "@/components/home/Pricing";
+import { OnlineDangers } from "@/components/home/OnlineDangers";
 import { FAQ } from "@/components/home/FAQ";
 import { FinalCTA } from "@/components/home/FinalCTA";
 import { useSeo } from "@/lib/seo";
@@ -59,6 +60,7 @@ export function HomePage() {
       <HowItWorks />
       <UseCases />
       <Pricing />
+      <OnlineDangers />
       <FAQ />
       <FinalCTA />
     </>
