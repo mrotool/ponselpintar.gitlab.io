@@ -1,0 +1,18 @@
+{
+  "name": "Ponsel Pintar",
+  "short_name": "Ponsel Pintar",
+  "description": "Layanan informasi dan konsultasi monitoring perangkat secara bertanggung jawab.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fffafd",
+  "theme_color": "#e81772",
+  "lang": "id",
+  "icons": [
+    {
+      "src": "/images/icon-ponselpintar.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

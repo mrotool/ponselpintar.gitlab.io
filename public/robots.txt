@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ISI_DOMAIN/sitemap.xml

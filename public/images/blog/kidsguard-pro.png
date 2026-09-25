@@ -1,0 +1,797 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>ClevGuard 404 Page - 404 Error</title>
+    <meta name="keywords" content="" />
+    <meta name="description" content="The requested page was not found.">
+    <link rel="canonical" href="https://www.clevguard.com/404/" />
+    <meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+<link rel="shortcut icon" href="https://images.clevguard.com/en/assets/images/common/favicon.ico" type="image/x-icon">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MC8R5ZM" height="0" width="0"
+    style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- Google Tag Manager  -->
+<script>
+    (function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start': new Date().getTime(),
+            event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-MC8R5ZM');
+   
+</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-MBGHXM6W');</script>
+<!-- End Google Tag Manager -->
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+    c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+    t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+    y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "r3w1u0mqhp");
+</script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('consent','default',{
+        'ad_storage': 'denied',
+        'analytics_storage': 'denied',
+        'ad_user_data':'denied',
+        'ad_personalization': 'denied',
+        'wait_for_update': 500,
+        'region': ['AT','BE','BG','CY','CZ','DE','DK','EE','ES','FI','FR','GR','HR','HU','IE','IT','LT','LU','LV','MT','NL','PL','PT','RO','SE','SI','SK']
+    });
+    dataLayer.push({'event': 'default_consent' });
+</script>
+<link rel="stylesheet" href="/assets/css/dialog.css">
+<link rel="stylesheet" href="/assets/css/activity/clevguard_video_popup.css">
+<link rel="stylesheet" href="/assets/css/font.css?v=20250619">
+<link rel="stylesheet" href="/assets/css/base.css?v=20250619">
+<link rel="stylesheet" href="/assets/css/header.css">
+<link rel="stylesheet" href="/assets/css/lib/animate.min.css">
+    
+    <link rel="stylesheet" href="/assets/css/other/404_new.css">
+    
+</head>
+
+<body>
+    <header class="base-header">
+    <div class="base-maxwidth">
+        <div class="header-logo">
+            <img src="https://images.clevguard.com/en/assets/common/header/menu_icon.svg" alt="Menu" class="mobile-menu"
+                loading="lazy">
+            <a data-ga='{"event":"navi_click_button","category":"cg_logo"}' href="/">
+                <img src="https://images.clevguard.com/en/assets/activity/fifth_anniversary_sales/clevguard_logo-small.svg"
+                    alt="clevguard" loading="lazy">
+            </a>
+        </div>
+        <div class="header-right-list">
+            <div class="close-menu">
+                <img src="https://images.clevguard.com/en/assets/common/header/close_menu.svg" alt="Close"
+                    loading="lazy">
+            </div>
+            <div class="header-nav">
+                <div class="header-products">
+                    <p class="nav-name">Products<i class="header-arrow"></i></p>
+                    <div class="product-bg">
+                      <div class="prdouct-nav-list-container">
+                        <div class="product-nav-list-item">
+                          <div class="product-nav-list-item-title">Parental Control & App Monitoring:</div>
+                          <ul class="product-nav-first-list-item-container">
+                            <li>
+                              <img
+                                  src="https://images.clevguard.com/en/assets/common/product-icon/kidsguardpro_icon.svg"
+                                  alt="kidsguardpro"
+                                  loading="lazy"
+                                />
+                              <div class="product-nav-list-item-right">
+                                <div class="nav-list-product-name"><a data-ga='{"event":"navi_click_button","label":"kidsguard_pro","category":"products"}' href="/parental-control-app/">KidsGuard Pro</a></div>
+                                <div class="nav-list-product-desc">All-in-one Parental Monitoring App with AI Agent</div>
+                              </div>
+                            </li>
+                            <li>
+                              <img
+                                  src="https://images.clevguard.com/en/assets/common/product-icon/whatapp_icon.svg"
+                                  alt="whatapp"
+                                  loading="lazy"
+                                />
+                              <div class="product-nav-list-item-right">
+                                <div class="nav-list-product-name"><a data-ga='{"event":"navi_click_button","label":"kidsguard_for_whatsapp","category":"products"}' href="/whatsapp-monitoring/">KidsGuard for WhatsApp</a></div>
+                                <div class="nav-list-product-desc">WhatsApp Monitoring Tool</div>
+                              </div>
+                            </li>
+                            <li>
+                              <img
+                                  src="https://images.clevguard.com/en/assets/common/product-icon/monivisor_icon.svg"
+                                  alt="monivisor"
+                                  loading="lazy"
+                                />
+                              <div class="product-nav-list-item-right">
+                                <div class="nav-list-product-name"><a data-ga='{"event":"navi_click_button","label":"monivisor","category":"products"}' href="/computer-monitoring-software/">MoniVisor</a></div>
+                                <div class="nav-list-product-desc">Best Computer Monitoring Software</div>
+                              </div>
+                            </li>
+                            <li>
+                              <img
+                                  src="https://images.clevguard.com/en/assets/overview/whatsapp_sceen/whatsapp-status-seen.svg"
+                                  alt="WspSeen"
+                                  loading="lazy"
+                                />
+                              <div class="product-nav-list-item-right">
+                                <div class="nav-list-product-name"><a data-ga='{"event":"navi_click_button","label":"wspseen","category":"products"}' href="/whatsapp-online-tracker/">WspSeen</a></div>
+                                <div class="nav-list-product-desc">WhatsApp Online Tracker</div>
+                              </div>
+                            </li>
+                          </ul>
+                        </div>
+  
+                        <div class="product-nav-list-item">
+                          <ul class="product-nav-sec-list-item-container">
+                            <li>
+                              <img src="https://images.clevguard.com/en/assets/common/product-icon/kidsguardpro_icon.svg"
+                                alt="kidsguardpro" loading="lazy">
+                              <a data-ga='{"event":"navi_click_button","label":"kidsguard_pro_for_ios","category":"products"}' href="/parental-control-iphone/">KidsGuard Pro for iOS</a>
+                            </li>
+                            <li>
+                              <img src="https://images.clevguard.com/en/assets/overview/icloud_parental_control/icloud_icon.png"
+                                alt="iCloud" loading="lazy">
+                              <a data-ga='{"event":"navi_click_button","label":"kidsguard_pro_for_icloud","category":"products"}' href="/icloud-parental-control/">KidsGuard Pro for iCloud</a>
+                            </li>
+                            <li>
+                              <img src="https://images.clevguard.com/en/assets/common/product-icon/kidsguard_icon.svg"
+                                alt="KidsGuard for Children" loading="lazy">
+                              <a data-ga='{"event":"navi_click_button","label":"kidsguard_for_children","category":"products"}' href="/phone-parental-control/">KidsGuard for Children</a>
+                            </li>
+                            <li>
+                              <img src="https://images.clevguard.com/en/assets/common/product-icon/tg-seen-icon.svg"
+                                alt="TGSeen" loading="lazy">
+                              <a data-ga='{"event":"navi_click_button","label":"tgseen","category":"products"}' href="/telegram-last-seen-tracker/">TGSeen</a>
+                            </li>
+                            <li>
+                              <img
+                                  src="https://images.clevguard.com/enassets/images/home_index/facebook-logo-icon.svg"
+                                  alt="facebook-monitor"
+                                  loading="lazy"
+                                />
+                              <a data-ga='{"event":"navi_click_button","label":"kidsguard_for_facebook","category":"products"}' href="/facebook-monitor/">KidsGuard for Facebook</a>
+                            </li>
+                            <li>
+                              <img
+                                  src="https://images.clevguard.com/enassets/images/home_index/snapchat-icon.svg"
+                                  alt="snapchat-monitor"
+                                  loading="lazy"
+                                />
+                              <a data-ga='{"event":"navi_click_button","label":"kidsguard_for_snapchat","category":"products"}' href="/snapchat-monitoring/">KidsGuard for Snapchat</a>
+                            </li>
+                            <li>
+                              <img
+                                  src="https://images.clevguard.com/enassets/images/home_index/tiktok-icon.svg"
+                                  alt="tiktok-monitor"
+                                  loading="lazy"
+                                />
+                              <a data-ga='{"event":"navi_click_button","label":"kidsguard_for_tiktok","category":"products"}' href="/tiktok-monitoring/">KidsGuard for TikTok</a>
+                            </li>
+                            <li>
+                              <img
+                                  src="https://images.clevguard.com/en/assets/common/product-icon/line_icon.svg"
+                                  alt="line"
+                                  loading="lazy"
+                                />
+                              <a data-ga='{"event":"navi_click_button","label":"kidsguard_for_line","category":"products"}' href="/line-monitoring.html">KidsGuard for LINE</a>
+                            </li>
+                          </ul>
+                        </div>
+  
+                        <div class="product-nav-list-line"></div>
+  
+                        <div class="product-nav-list-item">
+                          <div class="product-nav-third-list-item-block">
+                            <div class="product-nav-list-item-title">Privacy & Identity Tools:</div>
+                            <ul class="product-nav-third-list-item-container">
+                              <li>
+                                <img
+                                  src="https://images.clevguard.com/en/assets/common/product-icon/clevgo_icon.svg"
+                                  alt="clevgo_icon"
+                                  loading="lazy"
+                                />
+                                <div class="product-nav-list-item-right">
+                                  <div class="nav-list-product-name"><a data-ga='{"event":"navi_click_button","label":"clevgo","category":"products"}' href="/location-changer/">ClevGo</a></div>
+                                  <div class="nav-list-product-desc">Best Location Changer</div>
+                                </div>
+                              </li>
+                              <li>
+                                <img
+                                  src="https://images.clevguard.com/en/assets/common/product-icon/clevguard_icon.svg"
+                                  alt="clevguard"
+                                  loading="lazy"
+                                />
+                                <div class="product-nav-list-item-right">
+                                  <div class="nav-list-product-name"><a data-ga='{"event":"navi_click_button","label":"clevguard_anti_spyware","category":"products"}' href="/android-spyware-detection/">ClevGuard</a></div>
+                                  <div class="nav-list-product-desc">Best Antispy App for Mobile</div>
+                                </div>
+                              </li>
+                              <li>
+                                <img
+                                  src="https://images.clevguard.com/en/assets/overview/clevfinder/clev-finder-icon.svg"
+                                  alt="clevfinder_icon"
+                                  loading="lazy"
+                                />
+                                <div class="product-nav-list-item-right">
+                                  <div class="nav-list-product-name"><a data-ga='{"event":"navi_click_button","label":"clevfinder","category":"products"}' href="/clevfinder/">ClevFinder</a></div>
+                                  <div class="nav-list-product-desc">Reliable Reverse Phone Lookup</div>
+                                </div>
+                              </li>
+                           
+                            </ul>
+    
+                            
+                          </div>
+                        </div>
+                      </div>
+                          
+                    </div>
+                </div>
+                <div class="header-products header-demo">
+                    <p class="nav-name link">Features<i class="header-arrow"></i></p>
+                    <div class="product-bg feature-bg">
+                        <a data-ga='{"event":"navi_click_button","label":"parental_control","category":"features"}' class="product-bg-card" href="/parental-control-reviews-and-testimonials/">
+                            <img src="https://images.clevguard.com/en/assets/common/index/parent_contorl_icon.svg"
+                                alt="Parental control" loading="lazy">
+                            Parental Control
+                        </a>
+                        <a data-ga='{"event":"navi_click_button","label":"whatsapptracker","category":"features"}' class="product-bg-card" href="/whatsapp-tracker/">
+                            <img src="https://images.clevguard.com/en/assets/overview/features/whatsapp_icon.svg"
+                                alt="WhatsApp Tracker" loading="lazy">
+                            WhatsApp Tracker
+                        </a>
+                        <a data-ga='{"event":"navi_click_button","label":"line_tracker","category":"features"}' class="product-bg-card" href="/line-tracker/">
+                            <img src="https://images.clevguard.com/en/assets/overview/features/line_icon.svg"
+                                alt="WhatsApp Tracker" loading="lazy">
+                            LINE Tracker
+                        </a>
+                        <a data-ga='{"event":"navi_click_button","label":"listen_to_phone_surroundings","category":"features"}' class="product-bg-card" href="/ambient-recording/">
+                            <img src="https://images.clevguard.com/en/assets/overview/features/ambient_recording_icon.svg"
+                                alt="listen to phone surroundings" loading="lazy">
+                            Phone Surroundings
+                        </a>
+                        <a data-ga='{"event":"navi_click_button","label":"gps_phone_location","category":"features"}' class="product-bg-card" href="/phone-location-tracker/">
+                            <img src="https://images.clevguard.com/en/assets/overview/features/contact_tracker_icon.svg"
+                                alt="GPS phone Location Tracker" loading="lazy">
+                            GPS Phone Location
+                        </a>
+                        <a data-ga='{"event":"navi_click_button","label":"geofencing_app","category":"features"}' class="product-bg-card" href="/geofencing/">
+                            <img src="https://images.clevguard.com/en/assets/overview/features/geoforce_icon.svg"
+                                alt="Geofencing App" loading="lazy">
+                            Geofencing App
+                        </a>
+                        <a data-ga='{"event":"navi_click_button","label":"hidden_call_recorder","category":"features"}' class="product-bg-card" href="/hidden-call-recorder/">
+                            <img src="https://images.clevguard.com/en/assets/overview/features/hidden_call_recorder_icon.svg"
+                                alt="Hidden Call Recorder App" loading="lazy">
+                            Hidden Call Recorder
+                        </a>
+                        <a data-ga='{"event":"navi_click_button","label":"keylogger_for_android","category":"features"}' class="product-bg-card" href="/keylogger-android/">
+                            <img src="https://images.clevguard.com/en/assets/overview/features/keylogger_android_icon.svg"
+                                alt="Keylogger for Android" loading="lazy">
+                            Keylogger for Android
+                        </a>
+<a class="product-bg-card" href="/parental-control-app-block/">
+<img loading="lazy" src="https://images.clevguard.com/en/assets/overview/features/phone_usage_tracker_icon.svg" alt="App locker">Lock App
+</a>
+                        <a data-ga='{"event":"navi_click_button","label":"more_features","category":"features"}' class="product-bg-card" href="/features-hub/">
+                            More Features >>
+                        </a>
+                    </div>
+                </div>
+                <div class="header-products header-demo">
+                    <p class="nav-name link">Demo<i class="header-arrow"></i></p>
+                    <div class="product-bg">
+                      <div class="demo-nav-list-container">
+                        <ul class="demo-nav-first-list-item">
+                          <li>
+                            <img src="https://images.clevguard.com/en/assets/common/product-icon/kidsguardpro_icon.svg"
+                                alt="kidsguardpro" loading="lazy">
+                            <a data-ga='{"event":"navi_click_button","label":"kidsguard_pro","category":"demo"}' href="https://demo.clevguard.com/">KidsGuard Pro</a>
+                          </li>
+                          <li>
+                            <img src="https://images.clevguard.com/en/assets/common/product-icon/whatapp_icon.svg"
+                                alt="whatapp" loading="lazy">
+                            <a data-ga='{"event":"navi_click_button","label":"kidsguard_for_whatsapp","category":"demo"}' href="https://demo.clevguard.com/whatsapp-dashboard">KidsGuard for WhatsApp</a>
+                          </li>
+                          <li>
+                            <img src="https://images.clevguard.com/en/assets/common/product-icon/monivisor_icon.svg"
+                                alt="monivisor" loading="lazy">
+                            <a data-ga='{"event":"navi_click_button","label":"monivisor","category":"demo"}' href="https://demo.clevguard.com/monivisor-dashboard-win">MoniVisor</a>
+                          </li>
+                          <li>
+                            <img src="https://images.clevguard.com/en/assets/overview/whatsapp_sceen/whatsapp-status-seen.svg"
+                                alt="whatsapp status seen" loading="lazy">
+                            <a data-ga='{"event":"navi_click_button","label":"wspseen","category":"demo"}' href="https://demo.clevguard.com/whatsapp-status-dashboard">WspSeen</a>
+                          </li>
+                        </ul>
+  
+                        <ul class="demo-nav-sec-list-item">
+                          <li>
+                              <img src="https://images.clevguard.com/en/assets/common/product-icon/kidsguardpro_icon.svg"
+                                alt="kidsguardpro" loading="lazy">
+                              <a data-ga='{"event":"navi_click_button","label":"kidsguard_pro_for_ios","category":"demo"}' href="https://demo.clevguard.com/ios-dashboard">KidsGuard Pro for iOS</a>
+                            </li>
+                            <li>
+                              <img src="https://images.clevguard.com/en/assets/overview/icloud_parental_control/icloud_icon.png"
+                                alt="iCloud" loading="lazy">
+                              <a data-ga='{"event":"navi_click_button","label":"kidsguard_pro_for_icloud","category":"demo"}' href="https://demo.clevguard.com/icloud-dashboard">KidsGuard Pro for iCloud</a>
+                            </li>
+                            <li>
+                              <img src="https://images.clevguard.com/en/assets/common/product-icon/kidsguard_icon.svg"
+                                alt="KidsGuard for Children" loading="lazy">
+                              <a data-ga='{"event":"navi_click_button","label":"kidsguard_for_children","category":"demo"}' href="https://demo.clevguard.com/children-dashboard">KidsGuard for Children</a>
+                            </li>
+                            <li>
+                              <img src="https://images.clevguard.com/en/assets/common/product-icon/tg-seen-icon.svg"
+                                alt="TGSeen" loading="lazy">
+                              <a data-ga='{"event":"navi_click_button","label":"tgseen","category":"demo"}' href="https://demo.clevguard.com/telegram-status-dashboard">TGSeen</a>
+                            </li>
+                            <li>
+                              <img
+                                  src="https://images.clevguard.com/enassets/images/home_index/facebook-logo-icon.svg"
+                                  alt="facebook-monitor"
+                                  loading="lazy"
+                                />
+                              <a data-ga='{"event":"navi_click_button","label":"kidsguard_for_facebook","category":"demo"}' href="https://demo.clevguard.com/facebook-dashboard">KidsGuard for Facebook</a>
+                            </li>
+                            <li>
+                              <img
+                                  src="https://images.clevguard.com/enassets/images/home_index/snapchat-icon.svg"
+                                  alt="snapchat-monitor"
+                                  loading="lazy"
+                                />
+                              <a data-ga='{"event":"navi_click_button","label":"kidsguard_for_snapchat","category":"demo"}' href="https://demo.clevguard.com/snapchat-dashboard">KidsGuard for Snapchat</a>
+                            </li>
+                            <li>
+                              <img
+                                  src="https://images.clevguard.com/enassets/images/home_index/tiktok-icon.svg"
+                                  alt="tiktok-monitor"
+                                  loading="lazy"
+                                />
+                              <a data-ga='{"event":"navi_click_button","label":"kidsguard_for_tiktok","category":"demo"}' href="https://demo.clevguard.com/tiktok-dashboard">KidsGuard for TikTok</a>
+                            </li>
+                            <li>
+                              <img
+                                  src="https://images.clevguard.com/en/assets/common/product-icon/line_icon.svg"
+                                  alt="line"
+                                  loading="lazy"
+                                />
+                              <a data-ga='{"event":"navi_click_button","label":"kidsguard_for_line","category":"demo"}' href="https://demo.clevguard.com/line-dashboard">KidsGuard for LINE</a>
+                            </li>
+                        </ul>
+                      </div>
+                    </div>
+                </div>
+                <div class="header-products">
+                    <p class="nav-name">Resources<i class="header-arrow"></i></p>
+                    <div class="product-bg header-resource-bg">
+                        <div class="category-list header-resource base-maxwidth">
+                            <ul data-group-ga='{"event":"navi_click_button","label":"article","category":"resources"}'>
+                                <li class="product-category">
+                                    <p class="category-name"><a href="/parental-control/" target="_blank">Parental Control</a></p>
+                                    <a class="product-item" href="/parental-control/bypass-youtube-age-restriction" target="_blank">How Kids Bypass Youtube Age Restriction: Parent Should Know</a>
+                                    <a class="product-item" href="/parental-control/games-not-blocked-by-school" target="_blank">What Games Not Blocked By School</a>
+                                    <a class="product-item"
+                                        href="/parental-control/recover-deleted-messages" target="_blank">How to Recover Deleted Messages</a>
+                                    <a class="product-item"
+                                        href="/track/what-apps-do-cheaters-use/" target="_blank">What Apps Do Cheaters Use? You Should Know</a>
+                                    <a class="product-item" href="/parental-control/how-to-put-parental-controls-on-iphone-from-android" target="_blank">How to Put Parental Control on iPhone from Android</a>
+                                </li>
+                                <li class="product-category">
+                                    <p class="category-name"><a href="/whatsapp/" target="_blank">WhatsApp Monitoring</a></p>
+                                    <a class="product-item"
+                                        href="/whatsapp/how-to-take-screenshots-of-whatsapp-view-once-images.html"
+                                        target="_blank">How to Take Screenshots of WhatsApp View Once Images?</a>
+                                    <a class="product-item"
+                                        href="/monitor/how-to-check-who-is-chatting-with-whom-on-whatsapp/"
+                                        target="_blank">Check Who is Chatting with Whom on WhatsApp</a>
+                                    <a class="product-item"
+                                        href="/whatsapp/how-to-get-notification-when-someone-is-online-on-whatsapp/"
+                                        target="_blank"> How to Get Notification When Someone Is Online on WhatsApp</a>
+                                    <a class="product-item"
+                                        href="/whatsapp/best-hidden-whatsapp-status-viewer/"
+                                        target="_blank">2024 Best Hidden Status Viewer</a>
+                                    <a class="product-item"
+                                        href="/whatsapp/how-to-check-call-history-in-whatsapp-web/"
+                                        target="_blank">How to Check Call History in WhatsApp Web</a>
+                                </li>
+                                <li class="product-category">
+                                    <p class="category-name"><a href="/computer-monitoring/" target="_blank">Computer Monitoring</a></p>
+                                    <a class="product-item"
+                                        href="/computer-monitoring/how-to-find-incognito-history/" target="_blank">How to See Incognito
+                                        History</a>
+                                    <a class="product-item"
+                                        href="/computer-monitoring/parental-control-software-on-laptop/" target="_blank">Best Parental
+                                        Control Software for PC</a>
+                                    <a class="product-item"
+                                        href="/computer-monitoring/educational-computer-games" target="_blank">Educational Computer Games</a>
+                                    <a class="product-item"
+                                        href="/computer-monitoring/how-to-track-a-stolen-laptop" target="_blank">How to Track a Stolen Laptop</a>
+                                    <a class="product-item" href="/computer-monitoring/keylogger-for-windows/">Best
+                                        Keystroke Recorders for Windows</a>
+                                </li>
+                                <li class="product-category">
+                                    <p class="category-name"><a href="/track/" target="_blank">Cell Phone Tracking</a></p>
+                                    <a class="product-item" href="/track/how-to-get-call-history-of-any-number/">How to
+                                      Get Call History of Any Mobile</a>
+                                  <a class="product-item" href="/track/free-cell-phone-tracker-by-number/">Free Cell Phone Trackers Online with Location</a>
+                                  <a class="product-item"
+                                      href="/monitor/how-to-see-someones-activity-on-instagram/">See Someone's
+                                      Activity on Instagram</a>
+                                  <a class="product-item"
+                                      href="/track/what-apps-do-cheaters-use/">What Apps Do Cheaters Use? You Should Know</a>
+                                  <a class="product-item" href="/track/incognito-search-history/">View Someone's
+                                      Incognito History on Android and iPhone</a>
+                                </li>
+                                
+                                <li class="product-category">
+                                    <p class="category-name"><a href="/online/" target="_blank">WhatsApp Online Tracker</a></p>
+                                    <a class="product-item"
+                                        href="https://www.clevguard.com/online/whatsapp-online-status-tracker/">2024 Top
+                                        WhatsApp Online Tracker</a>
+                                    <a class="product-item"
+                                        href="https://www.clevguard.com/online/whatsapp-online-notification/">How to Get
+                                        Notification When Someone Is Online on WhatsApp</a>
+                                    <a class="product-item"
+                                        href="https://www.clevguard.com/online/how-to-know-if-someone-freeze-last-seen-on-whatsapp/">How
+                                        to Know If Someone Freeze Last Seen on WhatsApp?</a>
+                                    <a class="product-item"
+                                        href="https://www.clevguard.com/online/whatsapp-spy-online-tracker/">Top
+                                        WhatsApp Spy Online Tracker for Anyone</a>
+                                    <a class="product-item"
+                                        href="https://www.clevguard.com/whatsapp/how-to-know-if-someone-is-online-on-whatsapp">How
+                                        to Know If Someone Is Online on WhatsApp?</a>
+                                </li>
+                            </ul>
+                            <a data-ga='{"event":"navi_click_button","label":"more_tips","category":"resources"}' class="more-resource" href="https://blog.clevguard.com/" target="_blank">More Tips >></a>
+                        </div>
+                    </div>
+                </div>
+                <a data-ga='{"event":"navi_click_button","category":"support"}' class="nav-name support" href="/support-center/">Support</a>
+                <i class="border-left"></i>
+                <a data-ga='{"event":"navi_click_button","category":"login"}' class="header-login" data-usage="top-login" href="javascript:">
+                    <span>Login</span>
+                </a>
+                <div id="Login"></div>
+              </div>
+            <a class="header-store-icon" data-ga='{"event":"navi_click_button","category":"store"}' href="/store/" aria-label="store"><img src="https://images.clevguard.com/en/assets/common/header/store_icon.svg" alt="store_icon"></a>
+            <div data-ga='{"event":"navi_click_button","category":"search"}' class="search-box">
+                <form action="/search/" id="header-search-form" target="_parent">
+                    <label for="search-submit">
+                        <img src="https://images.clevguard.com/en/assets/common/header/search_icon2.svg" alt="Search"
+                            loading="lazy">
+                    </label>
+                    <div class="search-t">
+                        <input name="cx" value="a3c7854ef8b1649a6" type="hidden">
+                        <input name="cof" value="FORID:10" type="hidden">
+                        <input name="ie" value="UTF-8" type="hidden">
+                        <input value="" aria-label="search" name="q" id="header-search-keywords" class="ac-input" placeholder="Search"
+                            size="10" autocomplete="off" type="text">
+                    </div>
+                    <input name="sa" id="search-submit" value="Search" type="submit">
+                </form>
+                <img class="open-search" src="https://images.clevguard.com/en/assets/common/header/search_icon.svg"
+                    alt="SearchBtn" loading="lazy">
+                <img class="close-search" src="https://images.clevguard.com/en/assets/common/header/close_search.svg"
+                    alt="CloseBtn" loading="lazy">
+            </div>
+            <div class="lang-box">
+                <div class="bot-relate">
+                    English <i class="header-arrow"></i>
+                </div>
+                <ul class="other-lang">
+                    <li><a href="https://www.clevguard.com/es/">Español</a></li>
+                    <li><a href="https://www.clevguard.fr/">Français</a></li>
+                    <li><a href="https://www.clevguard.com/tw/">繁体中文</a></li>
+                    <li><a href="https://www.clevguard.jp">日本語</a></li>
+                </ul>
+            </div>
+        </div>
+        <a data-ga='{"event":"navi_click_button","category":"login"}' class="mobile-header-login" data-usage="top-login" href="javascript:">
+          <span>Login</span>
+        </a>
+        <a class="pc-hidden" data-ga='{"event":"navi_click_button","category":"store"}' href="/store/" aria-label="store"><img src="https://images.clevguard.com/en/assets/common/header/store_icon.svg" alt="store_icon"></a>
+    </div>
+  </header>
+    <main>
+
+    <section class="banner">
+        <div class="base-maxwidth">
+            <picture class="banner-img">
+                <img src="https://images.clevguard.com/enassets/images/404/tu_404.png" alt="404"/>
+            </picture>
+            <div class="banner-title">
+                <h1>Oops. The page you're looking for was not found.</h1>
+                <p class="banner-desc">Looking for something specific? Have a go with our search bar. Have any questions? Feel free to contact us. We're always here to help.</p>
+            </div>
+            <div class="banner-search">
+                <input class="search-input" type="text" placeholder="">
+                <span class="search-img"></span>
+            </div>
+        </div>
+    </section>
+
+    <section class="content">
+        <ul class="box-list">
+            <li class="box-item">
+                <div class="box-item-img bg1">
+                    <img src="https://images.clevguard.com/es/assets/images/404/icon_products.svg" alt="icon_products">
+                </div>
+                <h3 class="box-item-h3">All Products</h3>
+                <p class="box-item-desc">ClevGuard has a lot to offer. Find the product that best fits your needs.</p>
+                <a href="/store/" class="box-item-a">
+                    Visit Page
+                    <svg width="14" height="11" viewBox="0 0 14 11"  fill="#2E2E2E" xmlns="http://www.w3.org/2000/svg">
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M7.91752 0.283771C8.31308 -0.101649 8.94619 -0.0934269 9.33161 0.302136L13.7162 4.80214C14.0946 5.19045 14.0946 5.80955 13.7162 6.19787L9.33161 10.6979C8.94619 11.0934 8.31308 11.1017 7.91752 10.7162C7.52196 10.3308 7.51373 9.6977 7.89916 9.30214L10.6294 6.5H1C0.447715 6.5 0 6.05229 0 5.5C0 4.94772 0.447715 4.5 1 4.5H10.6294L7.89916 1.69787C7.51373 1.3023 7.52196 0.669191 7.91752 0.283771Z"/>
+                    </svg>                            
+                </a>
+            </li>
+            <li class="box-item">
+                <div class="box-item-img bg2">
+                    <img src="https://images.clevguard.com/es/assets/images/404/icon_hot.svg" alt="icon_hot">
+                </div>
+                <h3 class="box-item-h3">Hot Topics</h3>
+                <p class="box-item-desc">Do you want to learn new tips and tricks to protect your loved ones? Just click to learn.</p>
+                <a href="/topic/" class="box-item-a">
+                    Visit Page
+                    <svg width="14" height="11" viewBox="0 0 14 11"  fill="#2E2E2E" xmlns="http://www.w3.org/2000/svg">
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M7.91752 0.283771C8.31308 -0.101649 8.94619 -0.0934269 9.33161 0.302136L13.7162 4.80214C14.0946 5.19045 14.0946 5.80955 13.7162 6.19787L9.33161 10.6979C8.94619 11.0934 8.31308 11.1017 7.91752 10.7162C7.52196 10.3308 7.51373 9.6977 7.89916 9.30214L10.6294 6.5H1C0.447715 6.5 0 6.05229 0 5.5C0 4.94772 0.447715 4.5 1 4.5H10.6294L7.89916 1.69787C7.51373 1.3023 7.52196 0.669191 7.91752 0.283771Z"/>
+                    </svg>                            
+                </a>
+            </li>
+            <li class="box-item">
+                <div class="box-item-img bg3">
+                    <img src="https://images.clevguard.com/es/assets/images/404/icon_support.svg" alt="icon_support">
+                </div>
+                <h3 class="box-item-h3">Support</h3>
+                <p class="box-item-desc">Have questions? Don't hesitate to contact us. We're always here to help.</p>
+                <a href="/support-center/" class="box-item-a">
+                    Visit Page
+                    <svg width="14" height="11" viewBox="0 0 14 11"  fill="#2E2E2E" xmlns="http://www.w3.org/2000/svg">
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M7.91752 0.283771C8.31308 -0.101649 8.94619 -0.0934269 9.33161 0.302136L13.7162 4.80214C14.0946 5.19045 14.0946 5.80955 13.7162 6.19787L9.33161 10.6979C8.94619 11.0934 8.31308 11.1017 7.91752 10.7162C7.52196 10.3308 7.51373 9.6977 7.89916 9.30214L10.6294 6.5H1C0.447715 6.5 0 6.05229 0 5.5C0 4.94772 0.447715 4.5 1 4.5H10.6294L7.89916 1.69787C7.51373 1.3023 7.52196 0.669191 7.91752 0.283771Z"/>
+                    </svg>                            
+                </a>
+            </li>
+        </ul>
+    </section>
+
+</main>
+    <footer class="base-footer">
+    <div class="base-maxwidth">
+      <ul class="footer-nav">
+        <li class="nav-item site-info">
+          <div class="footer-logo">
+            <a href="/"><img loading="lazy" src="https://images.clevguard.com/en/assets/common/clevguard_logo.svg"
+                alt="clevguard" /></a>
+          </div>
+          <div class="trustpilot-social">
+            <div class="social-media">
+              <p class="social-title">FOLLOW US</p>
+              <div class="social-list">
+                <a href="https://www.facebook.com/ClevGuard/" rel="nofollow" target="_blank"><img loading="lazy"
+                    src="https://images.clevguard.com/en/assets/common/footer/facebook.svg" alt="share_facebook" /></a>
+                <a href="https://twitter.com/ClevGuard2020" rel="nofollow" target="_blank"><img loading="lazy"
+                    src="https://images.clevguard.com/en/images/twitter-logo-new.svg" alt="share_twitter" /></a>
+                <a href="https://www.youtube.com/@clevguardsoftware" rel="nofollow" target="_blank"><img loading="lazy"
+                    src="https://images.clevguard.com/en/assets/common/footer/youtube.svg" alt="share_youtube" /></a>
+                <a href="https://www.instagram.com/clevguard_official/?hl=en" rel="nofollow" target="_blank"><img
+                    loading="lazy" src="https://images.clevguard.com/en/assets/common/footer/instagram.svg"
+                    alt="follow_instagram" /></a>
+                <a href="https://www.pinterest.com/ClevGuard_Official_/" rel="nofollow" target="_blank"><img
+                    loading="lazy" src="https://images.clevguard.com/en/assets/common/footer/pinterest.svg"
+                    alt="follow_pinterest" /></a>
+                <a href="https://discord.gg/NTZjpVMbHK" rel="nofollow" target="_blank"><img loading="lazy"
+                    src="https://images.clevguard.com/en/assets/common/footer/discord_normal.svg" width="30"
+                    alt="follow_pinterest" /></a>
+              </div>
+            </div>
+          </div>
+          <div class="lang-box">
+            <div class="bot-relate">
+              English <i class="right-arrow"></i>
+            </div>
+            <ul class="other-lang">
+              <li>
+                <a href="/es/">
+                  Español
+                </a>
+              </li>
+              <li>
+                <a href="https://www.clevguard.fr/">
+                  Français
+                </a>
+              </li>
+              <li>
+                <a href="/tw/">
+                  繁体中文
+                </a>
+              </li>
+              <li>
+                <a href="https://www.clevguard.jp">
+                  日本語
+                </a>
+              </li>
+            </ul>
+          </div>
+        </li>
+        <li class="nav-item hot-products slide-item">
+          <p class="nav-title">Hot Products<i class="footer-arrow"></i></p>
+          <ul class="nav-list">
+            <li><a href="/parental-control-app/">KidsGuard Pro</a></li>
+            <li><a href="/parental-control-iphone/">KidsGuard Pro for iOS</a></li>
+            <li><a href="/icloud-parental-control/">KidsGuard Pro for iCloud</a></li>
+            <li><a href="/whatsapp-monitoring/">KidsGuard for WhatsApp</a></li>
+            <li><a href="/facebook-monitor/">KidsGuard for Facebook</a></li>
+            <li><a href="/how-to-block-website-iphone-android/">Lock Websites</a></li>
+            <li><a href="/screen-time-parental-control/">Screen Time Control</a></li>
+            <li>
+              <a href="/windows-monitoring-software/">MoniVisor</a>
+            </li>
+            <li><a href="/location-changer/">ClevGo</a></li>
+            <li><a href="/whatsapp-online-tracker/">WspSeen</a></li>
+            <li>
+              <a href="/phone-parental-control/">KidsGuard for Children</a>
+            </li>
+            <li><a href="/telegram-last-seen-tracker/">TGSeen</a></li>
+          </ul>
+        </li>
+        <li class="nav-item resources slide-item">
+          <p class="nav-title">Resources<i class="footer-arrow"></i></p>
+          <ul class="nav-list">
+            <li><a href="/topic/">All Topics</a></li>
+            <li><a href="/parental-control/">Parental Control</a></li>
+            <li><a href="/parental-control/">iCloud Monitoring</a></li>
+            <li><a href="/monitor/">Android Monitoring</a></li>
+            <li><a href="/whatsapp/">WhatsApp Tracking</a></li>
+            <li><a href="/iphone/">iPhone Monitoring</a></li>
+            <li><a href="/track/">Phone Tracking</a></li>
+            <li><a href="/computer-monitoring/">Computer Monitoring</a></li>
+            <li><a href="/change-location/">Change Location</a></li>
+            <li><a href="/online/">WhatsApp Online Tracker</a></li>
+            <li><a href="/change-location/">Change Location</a></li>
+            <li><a href="/online/">WhatsApp Online Tracker</a></li>
+          </ul>
+        </li>
+        <li class="nav-item">
+          <div class="company slide-item">
+            <p class="nav-title">Company<i class="footer-arrow"></i></p>
+            <ul class="nav-list">
+              <li><a href="/about-us/">About Us</a></li>
+              <li><a href="/contact-us/">Contact Us</a></li>
+              <li><a href="/support-center/">Support Center</a></li>
+              <li><a href="/partnership/">Partnership</a></li>
+              <li><a href="/product-faq/">Product FAQ</a></li>
+
+            </ul>
+          </div>
+          <p class="store">
+            <a href="/store/">ClevGuard Store<i class="store-icon"></i></a>
+          </p>
+        </li>
+      </ul>
+      <div class="polices">
+        <ul>
+          <li class="polices-title">Policies:</li>
+          <li><a href="/privacy-policy/" rel="nofollow">Privacy Policy</a></li>
+          <li><a href="/cookie-policy/" rel="nofollow">Cookie Policy</a></li>
+          <li><a href="/refund-policy/" rel="nofollow">Refund Policy</a></li>
+          <li><a href="/eula/" rel="nofollow">EULA</a></li>
+          <li>
+            <a href="/terms-and-conditions/" rel="nofollow">Terms & Conditions</a>
+          </li>
+          <li>
+            <a href="/payment-agreement/" rel="nofollow">Payment Agreement</a>
+          </li>
+        </ul>
+      </div>
+      <div class="pay-list">
+        <img loading="lazy" src="https://images.clevguard.com/en/assets/common/footer/visa.svg" alt="visa" />
+        <img loading="lazy" src="https://images.clevguard.com/en/assets/common/footer/mastercard.svg" alt="mastercard" />
+        <img loading="lazy" src="https://images.clevguard.com/en/assets/common/footer/maestro.svg" alt="maestro" />
+        <img loading="lazy" src="https://images.clevguard.com/en/assets/common/footer/vase_electron.svg"
+          alt="vase_electron" />
+        <img loading="lazy" src="https://images.clevguard.com/en/assets/common/footer/jcb.svg" alt="jcb" />
+        <img loading="lazy" src="https://images.clevguard.com/en/assets/common/footer/american_express.svg"
+          alt="express" />
+        <img loading="lazy" src="https://images.clevguard.com/en/assets/common/footer/diners_club.svg"
+          alt="diners club" />
+        <img loading="lazy" src="https://images.clevguard.com/en/assets/common/footer/discover.svg" alt="discover" />
+        <img loading="lazy" src="https://images.clevguard.com/en/assets/common/footer/unionpay.svg" alt="unionpay" />
+        <img loading="lazy" src="https://images.clevguard.com/en/assets/common/footer/giropay.svg" alt="giropay" />
+        <img loading="lazy" src="https://images.clevguard.com/en/assets/common/footer/direct_debit.svg" alt="debit" />
+      </div>
+      <div class="disclaimer">
+        <p class="disclaimer-title">Disclaimer</p>
+        <p class="disclaimer-desc">
+          CLEVGUARD'S SOFTWARE INTENDED FOR LEGAL USE ONLY. Installing the
+          Licensed Software onto the device you do not possess monitoring rights
+          may go against the Laws of your country or region. Violation of the
+          law’s requirements would be liable to severe monetary and criminal
+          penalties. Please consult your own legal advisor for professional
+          opinions on the legality of using this Licensed Software in the way you
+          intend to use. You take full responsibility for downloading, installing,
+          and using it. ClevGuard shall not be responsible if you choose to
+          monitor a device without being permitted to; nor can ClevGuard provide
+          legal advice on the use of the monitoring software. All rights not
+          expressly granted herein are reserved to and retained by ClevGuard.The
+          statement "No.1 Choice in <span class="user-country"></span>" is based
+          on our data system.
+        </p>
+      </div>
+      <p class="copy-right">
+        Copyright © <span id="base-time"></span> CLEVERGUARD TECHNOLOGY CO.,LIMITED. All rights reserved.
+      </p>
+      <a href="javascript:void(0);" class="to-top"><img loading="lazy"
+          src="https://images.clevguard.com/en/assets/common/footer/top_icon.svg" alt="top icon" /></a>
+    </div>
+  </footer>
+  
+  <div class="preview-img-mask">
+    <img loading="lazy" src="" alt="mask img">
+    <span class="close-btn"></span>
+  </div>
+ 
+
+  <script src="/assets/js/jquery/jquery-3.3.min.js"></script>
+  <script src="/assets/js/plug/md5.js"></script>
+  <script src="/assets/js/plug/sha1.min.js"></script>
+  
+  <script src="https://public.clevguard.com/assets/js/connection_clevguard_system/connection_clevguard_system_coupon.js"
+    defer onload='connectionMemberSystem.create({
+        siteName: "clevguard_en",
+        brand: "ClevGuard",
+        language: "en",
+        currency: "USD",
+        userHeadImgUrl: "https\:/\/images.clevguard.com/en/assets/images/public/avatar.png",
+        gooleClientId: location.hostname === "www.clevguard.com" ? "41419239149-32a06ugoa1sh9o9o51gusugf4bj566vl.apps.googleusercontent.com" : "962023358554-apn94lqqr74ggbp45pj1o18m3g23jj1c.apps.googleusercontent.com",
+        copywriting: {
+            download: "Free Download",
+            login: "Try Now",
+            registered: "Sign Up to Download",
+            myAccount: "Member Center",
+            logOut: "Log Out",
+            seconds: "Send again after ${time}s",
+            addressSentSuccessfully: "The download link has been sent to your email account"
+        }
+    })'>
+    </script>
+  <script src="https://public.clevguard.com/assets/js/cmp_data_collection/cookie_consent.js"></script>
+  <script src="https://public.clevguard.com/assets/js/language_pop_clevguard.js"></script>
+  <script src="/assets/js/base.js"></script>
+  <script defer src="/assets/js/plug/notification.js"></script>
+  <script src="/assets/js/utils/dialog.js"></script>
+    <script>
+    
+    var searchDom = $(".banner-search .search-input")
+    function searchLocation() {
+        var searchText = searchDom.val();
+        0 === searchText.length && (searchText = searchDom.attr("placeholder")),location.href = "/search/?cx=a3c7854ef8b1649a6&FORID:10&ie=UTF-8&q=" + searchText
+    }
+    searchDom.on('keyup', function (event) {
+        13 == event.keyCode && searchLocation();
+    });
+    $('.banner-search .search-img').click(function () {
+        searchLocation();
+    });
+    
+</script>
+</body>
+</html>

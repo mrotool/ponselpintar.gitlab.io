@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 56" width="200" height="56">
+  <rect x="0" y="8" width="40" height="40" rx="10" fill="#e81772"/>
+  <rect x="12" y="16" width="16" height="24" rx="3" fill="none" stroke="#fff" stroke-width="2.5"/>
+  <circle cx="20" cy="36" r="1.8" fill="#fff"/>
+  <line x1="16" y1="20" x2="24" y2="20" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+  <text x="50" y="36" font-family="Plus Jakarta Sans, Arial, sans-serif" font-size="22" font-weight="700" fill="#251520">Ponsel Pintar</text>
+</svg>
