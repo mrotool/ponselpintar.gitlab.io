@@ -1,12 +1,14 @@
+import { siteConfig } from "@/config/site";
+
 export function Logo({ className = "" }: { className?: string }) {
   return (
     <span className={`inline-flex items-center ${className}`}>
       <img
-        src="/logo.png"
-        alt="Logo PonselPintar"
-        width={96}
-        height={96}
-        className="h-10 w-10 object-contain"
+        src={siteConfig.logo}
+        alt="Ponsel Pintar"
+        width={200}
+        height={56}
+        className="h-9 w-auto max-w-[200px] object-contain"
         decoding="async"
         loading="eager"
       />

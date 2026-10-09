@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { Link, useLocation } from "react-router-dom";
-import { Menu, X } from "lucide-react";
+import { Menu, X, ArrowRight } from "lucide-react";
 import { navLinks, legalLinks } from "@/config/site";
 import { Logo } from "@/components/Logo";
 import { ThemeToggle } from "@/components/ThemeToggle";
@@ -41,26 +41,28 @@ export function Header() {
 
   return (
     <>
+      <div className="h-1 w-full bg-gradient-to-r from-primary-800 via-primary-500 to-accent-400" />
+
       <header
         className={`sticky top-0 z-50 transition-all duration-300 ${
           scrolled
-            ? "border-b border-[var(--border)] bg-[var(--bg)]/85 backdrop-blur-md shadow-sm"
+            ? "border-b border-[var(--border)] bg-[var(--bg)]/90 backdrop-blur-lg shadow-sm shadow-primary-900/5"
             : "border-b border-transparent bg-[var(--bg)]"
         }`}
       >
         <div className="container-page">
           <div className="flex h-16 items-center justify-between gap-4">
-            <Link to="/" aria-label="Beranda Ponsel Pintar">
+            <Link to="/" aria-label="Beranda Ponsel Pintar" className="flex-shrink-0">
               <Logo />
             </Link>
 
-            <nav className="hidden items-center gap-1 lg:flex" aria-label="Navigasi utama">
+            <nav className="hidden items-center gap-0.5 lg:flex" aria-label="Navigasi utama">
               {navLinks.map((link) =>
                 link.href.startsWith("/#") ? (
                   <button
                     key={link.href}
                     onClick={() => handleNavClick(link.href)}
-                    className="rounded-lg px-3 py-2 text-sm font-medium text-[var(--muted)] transition-colors hover:text-primary-600 dark:hover:text-primary-400"
+                    className="relative rounded-lg px-3.5 py-2 text-sm font-medium text-[var(--muted)] transition-colors hover:text-primary-600 dark:hover:text-primary-400"
                   >
                     {link.label}
                   </button>
@@ -68,24 +70,22 @@ export function Header() {
                   <Link
                     key={link.href}
                     to={link.href}
-                    className="rounded-lg px-3 py-2 text-sm font-medium text-[var(--muted)] transition-colors hover:text-primary-600 dark:hover:text-primary-400"
+                    className="relative rounded-lg px-3.5 py-2 text-sm font-medium text-[var(--muted)] transition-colors hover:text-primary-600 dark:hover:text-primary-400"
                   >
                     {link.label}
                   </Link>
                 )
               )}
-              <Link
-                to="/ketentuan-penggunaan"
-                className="rounded-lg px-3 py-2 text-sm font-medium text-[var(--muted)] transition-colors hover:text-primary-600 dark:hover:text-primary-400"
-              >
-                Ketentuan
-              </Link>
-              <Link
-                to="/kebijakan-privasi"
-                className="rounded-lg px-3 py-2 text-sm font-medium text-[var(--muted)] transition-colors hover:text-primary-600 dark:hover:text-primary-400"
-              >
-                Privasi
-              </Link>
+              <div className="mx-1 h-5 w-px bg-[var(--border)]" />
+              {legalLinks.map((link) => (
+                <Link
+                  key={link.href}
+                  to={link.href}
+                  className="rounded-lg px-3.5 py-2 text-sm font-medium text-[var(--muted)] transition-colors hover:text-primary-600 dark:hover:text-primary-400"
+                >
+                  {link.label === "Ketentuan Penggunaan" ? "Ketentuan" : "Privasi"}
+                </Link>
+              ))}
             </nav>
 
             <div className="flex items-center gap-2">
@@ -107,11 +107,11 @@ export function Header() {
       {mobileOpen && (
         <div className="fixed inset-0 z-[60] lg:hidden">
           <div
-            className="absolute inset-0 bg-black/40 backdrop-blur-sm animate-fade-in"
+            className="absolute inset-0 bg-primary-950/40 backdrop-blur-sm animate-fade-in"
             onClick={() => setMobileOpen(false)}
             aria-hidden="true"
           />
-          <div className="absolute right-0 top-0 h-full w-72 max-w-[80%] bg-[var(--bg)] border-l border-[var(--border)] shadow-xl animate-slide-in-right">
+          <div className="absolute right-0 top-0 h-full w-80 max-w-[85%] bg-[var(--bg)] border-l border-[var(--border)] shadow-2xl animate-slide-in-right flex flex-col">
             <div className="flex h-16 items-center justify-between border-b border-[var(--border)] px-4">
               <Logo />
               <button
@@ -123,7 +123,7 @@ export function Header() {
               </button>
             </div>
             <nav
-              className="flex flex-col gap-1 p-4 overflow-y-auto"
+              className="flex flex-col gap-0.5 p-4 overflow-y-auto flex-1"
               aria-label="Navigasi mobile"
             >
               {navLinks.map((link) =>
@@ -131,17 +131,19 @@ export function Header() {
                   <button
                     key={link.href}
                     onClick={() => handleNavClick(link.href)}
-                    className="rounded-lg px-3 py-3 text-left text-sm font-medium text-[var(--fg)] hover:bg-[var(--surface)]"
+                    className="flex items-center justify-between rounded-xl px-4 py-3 text-left text-sm font-medium text-[var(--fg)] hover:bg-primary-50 dark:hover:bg-primary-950/30 transition-colors"
                   >
                     {link.label}
+                    <ArrowRight className="h-4 w-4 text-[var(--muted)]" />
                   </button>
                 ) : (
                   <Link
                     key={link.href}
                     to={link.href}
-                    className="rounded-lg px-3 py-3 text-sm font-medium text-[var(--fg)] hover:bg-[var(--surface)]"
+                    className="flex items-center justify-between rounded-xl px-4 py-3 text-sm font-medium text-[var(--fg)] hover:bg-primary-50 dark:hover:bg-primary-950/30 transition-colors"
                   >
                     {link.label}
+                    <ArrowRight className="h-4 w-4 text-[var(--muted)]" />
                   </Link>
                 )
               )}
@@ -150,16 +152,16 @@ export function Header() {
                 <Link
                   key={link.href}
                   to={link.href}
-                  className="rounded-lg px-3 py-3 text-sm font-medium text-[var(--fg)] hover:bg-[var(--surface)]"
+                  className="rounded-xl px-4 py-3 text-sm font-medium text-[var(--fg)] hover:bg-primary-50 dark:hover:bg-primary-950/30 transition-colors"
                 >
                   {link.label}
                 </Link>
               ))}
-              <div className="mt-4 flex flex-col gap-3">
-                <ThemeToggle className="w-full justify-center" />
-                <WhatsAppButton size="md" className="w-full" />
-              </div>
             </nav>
+            <div className="border-t border-[var(--border)] p-4 flex flex-col gap-3">
+              <ThemeToggle className="w-full justify-center" />
+              <WhatsAppButton size="md" className="w-full" />
+            </div>
           </div>
         </div>
       )}
